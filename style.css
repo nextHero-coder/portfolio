@@ -1,0 +1,107 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+  
+}
+.header{
+    background-image: url(./images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header-para{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+section{
+    display: flow-root;
+    padding-bottom: 100px;
+    height: 550px;
+}
+.name-highlight{
+   
+    color: #FF4F95;
+    font-size: 40px;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+.half-width h2{
+    line-height: 90px;
+}
+.half-width p{
+    line-height: 30px;
+}
+.half-width img{
+    width: 100%;
+}
+.hire-btn{
+    color: white;
+    border-radius: 5px;
+    padding: 6px 30px;
+    text-decoration: none;
+    background-color: #FF4F95;
+}
+.bio{
+    text-align: center;
+}
+.bio-para{
+ padding-top: 100px;
+ 
+}
+.biography{
+    background-image: url(./images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.last-work{
+   background-image: url(./images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.last-work h2{
+    text-align: center;
+    font-size: 40px;
+}
+.imga{
+    text-align: center;
+    width:23%;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top:10%;
+}
+
+.foot-part{
+    background-image: url(./images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div{
+   
+    text-align: center;
+}
+.client-say{
+    text-align: center;
+    font-size: 30px;
+}
+
+.bruce{
+    font-weight: 700;
+}
+.message{
+    text-align: center;
+    background-color: #FF4F95;
+    width: 50%;
+    padding: 30px;
+    border-radius: 10px;
+    margin-left: 270px;
+    margin-top: 40px;
+    line-height: 40px;
+    color: white;
+}
+footer{
+    text-align: center;
+}
